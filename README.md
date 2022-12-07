@@ -13,7 +13,8 @@ json-converter is CLI to convert JSON to Any other files like:
 ```
 $ go install github.com/kecci/json-converter@latest
 go: downloading github.com/kecci/json-converter v0.0.1
-# json-converter
+
+$ json-converter
 json-converter - a simple CLI to conversion json and excel files.
 
 Usage:
