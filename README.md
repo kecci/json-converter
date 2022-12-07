@@ -9,6 +9,28 @@ json-converter is CLI to convert JSON to Any other files like:
 
 ## Installation
 
+### Using go install
+```
+$ go install github.com/kecci/json-converter@latest
+go: downloading github.com/kecci/json-converter v0.0.1
+# json-converter
+json-converter - a simple CLI to conversion json and excel files.
+
+Usage:
+   [flags]
+   [command]
+
+Available Commands:
+  excel       Convert json to excel file
+  help        Help about any command
+
+Flags:
+  -h, --help      help for this command
+  -v, --version   version for this command
+
+Use " [command] --help" for more information about a command.
+```
+
 ### Using the github repository
 ```sh
 git clone https://github.com/kecci/json-converter.git
