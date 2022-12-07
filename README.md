@@ -96,3 +96,7 @@ go build -o json-converter .
 |------------------|-----------------|-------------|------------|------------------|-----------------|-------------|-----------------------------------|
 | Jane             | Doe             | Non-Fiction | Technology | Jane             | Smith           | 123-456-222 | The Ultimate Database Study Guide |
 | Some             | Han             | Fiction     | Comic      | Jane             | Marry           | 345-666-777 | The Story Behind Spiderman        |
+
+## Inspiration
+- [Python Pandas.JSON_normalize](https://www.geeksforgeeks.org/python-pandas-flatten-nested-json/) (Flatten nested JSON)
+- Data Converter in Excel (now is deprecated)
